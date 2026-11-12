@@ -12,7 +12,7 @@ The glucose electrode produces a small current that follows the glucose level. A
 |---|---|
 | ![Board with the flexible probe](docs/images/cgm-board-with-probe.jpg) | ![Board front](docs/images/cgm-board-front.jpg) |
 
-![Layout and 3D view in Altium Designer](docs/images/cgm-layout-in-altium.jpg)
+
 
 ## Files
 
